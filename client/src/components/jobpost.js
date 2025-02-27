@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-function JobPost({ id, logo, title, location, salary, tags, type, mode }) {
+function JobPost({ logo, title, location, salary, tags, type, mode }) {
     return (
       <div className="flex items-center p-4 bg-white shadow-md rounded-lg border border-gray-200 mb-4">
         {/* Left Section - Company Logo */}

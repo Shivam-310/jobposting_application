@@ -28,6 +28,15 @@ const jobData = [
     type: "Full time",
     mode: "Office",
   },
+  {
+    logo: "https://via.placeholder.com/50",
+    title: "Frontend Developer",
+    location: "Varanasi",
+    salary: "₹35,000",
+    tags: ["Frontend", "CSS", "JavaScript", "HTML"],
+    type: "Full time",
+    mode: "Office",
+  },
 ];
 
 function JobList() {

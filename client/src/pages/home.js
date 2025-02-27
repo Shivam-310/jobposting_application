@@ -1,12 +1,11 @@
 import React from 'react'
-import { useState, useEffect} from 'react'
+import { useState, } from 'react'
 import Navbar from '../components/navbar'
 import SearchBar from '../components/searchbar'
 import JobList from '../components/joblist'
 
 const Home = () => {
 
-    // const [selectedCategory, setSelectedCategory] = useState(null);
     // const [jobs, setJobs] = useState([]);
 
     // useEffect(() => {
