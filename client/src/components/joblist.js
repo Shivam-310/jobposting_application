@@ -15,7 +15,7 @@ const jobData = [
     title: "WordPress Developer",
     location: "Bangalore",
     salary: "₹25,000",
-    tags: ["CSS", "HTML", "WordPress"],
+    tags: ["CSS", "HTML", "JavaScript"],
     type: "Full time",
     mode: "Remote",
   },
